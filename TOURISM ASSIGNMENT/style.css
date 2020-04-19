@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+img{
+    width:100%;
+    height: 100%;
+    margin-left: 0cm;
+    margin-top: 0px;
+   margin-right: 0cm;
+   margin-bottom: 0cm;
+}
+
+header {
+    background-color:black;
+    height:4em;
+    
+}
+
+
+
+.foot{
+    min-height: 1px;
+    text-align: center;
+    
+}
+footer{
+   
+   margin-top: 5px;
+    background-color:white;
+    color:black;
+    padding: 1px;
+    
+}
+
+
+
+.logo-tag {
+    height: 3px;
+    width: 3px;
+    margin-top: 0px;
+}
+
+.head-tag {
+    float: right;
+    margin-top: 20px;
+    margin-right: 55px;
+}
+
+.head-tag a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:none;
+    color: white;
+    border: 1px solid white;
+    padding: 3px;
+    margin-right: 6px;
+}
+
+.head-tag a:hover {
+    background-color: teal;
+    color: rgb(211, 144, 144);
+    transition: 0.5s ease-in-out;
+}
+
+.sidebar {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.sidebar li {
+    list-style: square;
+    padding: 2px;
+}
+
+.login {
+    float: right;
+    border: 2px solid rgb(20, 19, 19);
+    background-color: whitesmoke;
+    height: 15em;
+    margin-top: 8px;
+    margin-right: 9px;
+}
+
+.login #login-button {
+    width: 100%;
+    height: 1.5em;
+    
+    background-color:white;
+    
+}
+
+
+
+.container {
+    margin-top:5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(100deg,#256d1f,rgb(30, 39, 117));
+}
+
+
+.simpleForm{
+    font-size: 15px;
+    width: 30%;
+    margin: 20px auto;
+    padding: 40px 40px;
+    color:white;
+    border-radius: 6px;
+
+}
+.simpleForm input{
+    width: 100%;
+    margin: 4px 0px;
+    padding: 10px 10px;
+
+}
+.simpleForm button{
+    margin: 8px 0px;
+    font-size: 20px;
+}
+.wrong-input{
+    border: 1px solid red;
+    animation: shake 1.5s;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    
+}

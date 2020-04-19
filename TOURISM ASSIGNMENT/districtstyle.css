@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 50%;
+  height: 50%;
+  width: initial;
+  
+}
+
+
+body{
+    background-color: white;
+}
